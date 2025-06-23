@@ -3,6 +3,9 @@
         android:label="flutter_api_rumah_sakit"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+        <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="AIzaSyAH6Bxb3MXcAuZo14FgpNRxnTmgfdLtilI"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"

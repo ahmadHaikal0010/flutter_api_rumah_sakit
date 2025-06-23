@@ -9,6 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  http: ^1.4.0
+  google_maps_flutter: ^2.12.3
+  custom_info_window: ^1.0.1
+  url_launcher: ^6.2.5
 
 dev_dependencies:
   flutter_test:
